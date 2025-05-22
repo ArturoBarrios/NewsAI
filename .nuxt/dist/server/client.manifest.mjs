@@ -1,0 +1,1 @@
+export { default } from "file:///Users/arturobarrios/Documents/AINewsProjectFiles/NewsAI/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
